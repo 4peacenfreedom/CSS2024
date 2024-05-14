@@ -23,11 +23,13 @@ header {
 /* Estilos del logo  */
 .logo {
   float: left;
+  margin-right: 20px;
 }
 
 /* Estilos del NAV  */
-nav {
+nav ul li {
   list-style-type: none;
+  margin-bottom: 10px;
 }
 
 /* Estilos de los Enlaces del nav  */
