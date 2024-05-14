@@ -42,6 +42,37 @@ main {
 }
 
 /* Estilos del separador  */
+hr {
+  border: 1px black solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  clear: both;
+}
+
+/* Estilos de los titulos y parrafos  */
+.subtitulo {
+  font-size: 1.5em;
+}
+.parrafo {
+  font-size: 1.2em;
+}
+
+/* Estilos de las listas  */
+ul.lista {
+  list-style-type: none;
+}
+ul.lista li.item {
+  margin-bottom: 10px;
+}
+
+ul.lista li.item a {
+  text-decoration: none;
+  color: blue;
+}
+
+ul.lista li.item a:hover {
+  color: red;
+}
 
 /* Estilos del footer  */
 footer {
