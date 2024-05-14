@@ -1,0 +1,56 @@
+/* RESETEAR ESTILOS  */
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos generales del documento  */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 90%;
+  margin: 15px auto;
+}
+
+/* Estilos del Header  */
+header {
+  background-color: #333;
+  color: white;
+  padding: 10px 20px;
+  overflow: hidden;
+}
+
+/* Estilos del logo  */
+.logo {
+  float: left;
+}
+
+/* Estilos del NAV  */
+nav {
+  list-style-type: none;
+}
+
+/* Estilos de los Enlaces del nav  */
+nav a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Estilos del main  */
+main {
+  padding: 20px;
+}
+
+/* Estilos del separador  */
+
+/* Estilos del footer  */
+footer {
+  position: fixed;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
